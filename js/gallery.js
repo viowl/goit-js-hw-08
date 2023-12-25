@@ -76,7 +76,6 @@ const images = [
 </a>
 </li>`).join('')
 
-console.log(markup)
 
   const gallery = document.querySelector('.gallery')
 
