@@ -123,3 +123,5 @@ function closeModalOnESC(e) {
     window.removeEventListener('keydown', closeModalOnESC);
   }
 }
+
+console.log(gallery);
